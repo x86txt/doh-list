@@ -2,7 +2,7 @@
 ! Description: Filter to block the public available DoH servers.
 ! Homepage: https://github.com/MohamedElashri/doh-list
 ! License: https://github.com/MohamedElashri/doh-list/blob/master/LICENSE
-! Last modified: 2026-01-01 12:09:18
+! Last modified: 2026-02-01 12:48:07
 #
 # Full URLs of DoH services:
 #
@@ -41,7 +41,6 @@ https://dns.brembeck.cloud/dns-query
 https://dns.busold.ws/dns-query
 https://doh.aaaab3n.moe/dns-query-114514
 https://dns.caspervk.net/dns-query
-https://dns.cctld.kg/dns-query
 https://dns.cert.ee/dns-query
 https://doh-01.spectrum.com/dns-query
 https://doh-02.spectrum.com/dns-query
@@ -57,6 +56,7 @@ https://doh.umbrella.com/dns-query
 https://doh.cleanbrowsing.org/doh/family-filter/
 https://doh.cleanbrowsing.org/doh/adult-filter/
 https://doh.cleanbrowsing.org/doh/security-filter/
+https://dns1.techniverse.net/dns-query
 https://cloudflare-dns.com/dns-query
 https://mozilla.cloudflare-dns.com/dns-query
 https://security.cloudflare-dns.com/dns-query
@@ -85,6 +85,7 @@ https://freedns.controld.com/x-hagezi-ultimate
 https://freedns.controld.com/x-hagezi-tif
 https://freedns.controld.com/x-goodbyeads
 https://freedns.controld.com/x-adguard
+https://cryptostorm.is/dns-query
 https://dns.csaonline.de/dns-query
 https://dns.csa-rz.de/dns-query
 https://dns.csswg.org/dns-query
@@ -168,9 +169,7 @@ https://vno01.dnscry.pt/dns-query
 https://waw02.dnscry.pt/dns-query
 https://evn01.dnscry.pt/dns-query
 https://dnsdoh.art/dns-query
-https://dnsforge.de/dns-query
-https://clean.dnsforge.de/dns-query
-https://hard.dnsforge.de/dns-query
+https://dns.flatuslifir.is/dns-query
 https://dns.dnshome.de/dns-query
 https://dnslow.me/dns-query
 https://japan.dnsovertor.cc/dns-query
@@ -185,14 +184,11 @@ https://dns.dremaxx.de/dns-query
 https://agh.dshubham.xyz/dns-query
 https://dukun.de/dns-query
 https://xn--durhre-yxa.de/dns-query
-https://dns.dynx.pro/dns-query
-https://dns.dynx.pro/dns-query/family
 https://dns.d94.xyz/dns-query
 https://dns.elemental.software/dns-query
 https://dns.eliv.kr/dns-query
 https://dns.faked.org/dns-query
 https://dnsvps.familiamv.net/dns-query
-https://dns.fancyorg.at/dns-query
 https://dns.farshidhakimy.de/dns-query
 https://nicsezcheckfbi.gov
 https://ns0.fdn.fr/dns-query
@@ -210,7 +206,6 @@ https://dns.froth.zone/dns-query
 https://doh.futa.gg/dns-query
 https://dns.gamban.com/dns-query
 https://gibblets.top/dns-query
-https://dns.girino.org/dns-query
 https://glacius.top/dns-query
 https://dns.google/dns-query
 https://dns64.dns.google/dns-query
@@ -246,7 +241,6 @@ https://dns.lobbygod.com/dns-query
 https://dns.luma-medien.com/dns-query
 https://dns.l337.site/dns-query
 https://dns.marasov.id/dns-query
-https://dns.technologycage.com/dns-query
 https://dns.marbledfennec.net/dns-query
 https://masters-of-cloud.de/dns-query
 https://dns.mateo.ovh/dns-query
@@ -317,9 +311,6 @@ https://dog.dns.qwer.pw/dns-query
 https://lion.dns.qwer.pw/dns-query
 https://frog.dns.qwer.pw/dns-query
 https://tiger.dns.qwer.pw/dns-query
-https://dns.rabbitdns.org/dns-query
-https://security.rabbitdns.org/dns-query
-https://family.rabbitdns.org/dns-query
 https://dns.redhosting.com.ar/dns-query
 https://regiopolis.cloud/dns-query
 https://renardbleu.dev/dns-query
@@ -338,7 +329,6 @@ https://dns.skrep.eu/dns-query
 https://dns.slinkyman.net/dns-query
 https://dns.smartguard.io/dns-query
 https://adg.geili.me/dns-query
-https://solaxy.live/dns-query
 https://dns.startupstack.tech/dns-query
 https://doh.sz-dns.com/dns-query
 https://dns.stirringphoto.com/dns-query
@@ -354,7 +344,6 @@ https://dns.t53.de/dns-query
 https://dns.telekom.de/dns-query
 https://dns.tipsy.coffee/dns-query
 https://dns.tls-data.de/dns-query
-https://dns.twnic.tw/dns-query
 https://doh.tiar.app/dns-query
 https://resolver.dnsprivacy.org.uk/dns-query
 https://anycast.uncensoreddns.org/dns-query
